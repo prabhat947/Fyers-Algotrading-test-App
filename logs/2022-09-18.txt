@@ -1,0 +1,8 @@
+
+1663509735319 :: quotes :: {'symbols': 'NSE:SBIN-EQ'} :: 1663509735602 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user'}
+
+1663509735603 :: depth :: {'symbol': 'NSE:SBIN-EQ', 'ohlcv_flag': '1'} :: 1663509735819 :: {'s': 'error', 'code': -17, 'message': 'Could not authenticate the user'}
+
+1663509789172 :: quotes :: {'symbols': 'NSE:SBIN-EQ'} :: 1663509789504 :: {'s': 'ok', 'd': [{'n': 'NSE:SBIN-EQ', 's': 'ok', 'v': {'ch': -10.35, 'chp': -1.81, 'lp': 561.8, 'spread': 0.0, 'ask': 0.0, 'bid': 0.0, 'open_price': 569.1, 'high_price': 574.0, 'low_price': 560.3, 'prev_close_price': 572.15, 'volume': 14739280, 'short_name': 'SBIN-EQ', 'exchange': 'NSE', 'description': 'NSE:SBIN-EQ', 'original_name': 'NSE:SBIN-EQ', 'symbol': 'NSE:SBIN-EQ', 'fyToken': '10100000003045', 'tt': 1663459200}}]}
+
+1663509789505 :: depth :: {'symbol': 'NSE:SBIN-EQ', 'ohlcv_flag': '1'} :: 1663509789750 :: {'s': 'ok', 'd': {'NSE:SBIN-EQ': {'totalbuyqty': 0, 'totalsellqty': 0, 'bids': [], 'ask': [], 'o': 569.1, 'h': 574.0, 'l': 560.3, 'c': 572.15, 'chp': -1.81, 'ch': -10.35, 'ltq': 0, 'ltt': 0, 'ltp': 561.8, 'v': 0, 'lower_ckt': 505.65, 'upper_ckt': 617.95, 'expiry': '', 'oi': 0, 'oiflag': False, 'pdoi': 0, 'oipercent': 0.0}}, 'message': ''}
